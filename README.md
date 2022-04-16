@@ -32,7 +32,7 @@ This is a test task for an interview
 ```console
 docker-compose up
 Starting development server at
-http://127.0.0.1:8000/
+http://127.0.0.1:8080/
 
 ## Url
 
